@@ -1,9 +1,9 @@
 #Pixel Party
 
 ## Build
-```console
-:~$ cd build
-:~$ cmake ..
-:~$ make
-:~$ ./pixel_party
+```bash
+$ cd build
+$ cmake ..
+$ make
+$ ./pixel_party
 ```
