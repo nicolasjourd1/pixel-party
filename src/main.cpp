@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Pixel Party !" << std::endl;
+    std::cout << "Bienvenue sur Pixel Party !" << std::endl;
 }
