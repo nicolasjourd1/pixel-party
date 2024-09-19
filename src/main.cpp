@@ -1,5 +1,7 @@
 #include <iostream>
 
-int main(){
+int main()
+{
     std::cout << "Bienvenue sur Pixel Party !" << std::endl;
+    return 0;
 }
