@@ -39,6 +39,7 @@ int main()
 
         ClearBackground(RAYWHITE);
         DrawText(msg.c_str(), 190, 200, 20, LIGHTGRAY);
+        DrawText("Nouvelle branche", 190, 150, 20, LIGHTGRAY);
         EndDrawing();
     }
 
