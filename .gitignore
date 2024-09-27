@@ -4,4 +4,5 @@
 build/
 bin/
 out/
+.cache/
 CMakeSettings.json
