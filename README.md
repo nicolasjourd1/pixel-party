@@ -2,8 +2,7 @@
 
 ## Build
 ```bash
-$ cd build
-$ cmake ..
-$ make
-$ ./pixel_party
+$ cmake -S . -B build
+$ ninja -C build
+$ ./build/pixel_party.exe
 ```
